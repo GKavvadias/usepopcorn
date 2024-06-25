@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/App-v1.js
+/src/StarRating.js
 
 # testing
 /coverage
